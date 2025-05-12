@@ -1,0 +1,25 @@
+2025-03-12 20:44:39,089 -  * Debugger is active!
+2025-03-12 20:44:39,095 -  * Debugger PIN: 861-823-286
+2025-03-12 20:44:47,569 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-12 20:44:47,569 - [33mPress CTRL+C to quit[0m
+2025-03-12 20:44:47,572 -  * Restarting with stat
+2025-03-12 20:44:49,335 -  * Debugger is active!
+2025-03-12 20:44:49,339 -  * Debugger PIN: 861-823-286
+2025-03-12 20:46:15,664 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-12 20:46:15,666 - [33mPress CTRL+C to quit[0m
+2025-03-12 20:46:15,669 -  * Restarting with stat
+2025-03-12 20:46:17,827 -  * Debugger is active!
+2025-03-12 20:46:17,830 -  * Debugger PIN: 861-823-286
+2025-03-12 20:48:06,838 -  * Detected change in 'C:\\Users\\ADMIN\\Desktop\\simpleFlask\\flaskGeek\\withall.py', reloading
+2025-03-12 20:48:07,282 -  * Restarting with stat
+2025-03-12 20:48:24,580 -  * Restarting with stat
+2025-03-12 20:48:42,224 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-12 20:48:42,224 - [33mPress CTRL+C to quit[0m
+2025-03-12 20:48:42,227 -  * Restarting with stat
+2025-03-12 20:48:43,944 -  * Debugger is active!
+2025-03-12 20:48:43,948 -  * Debugger PIN: 861-823-286
+2025-03-12 20:49:57,630 -  * Detected change in 'C:\\Users\\ADMIN\\Desktop\\simpleFlask\\flaskGeek\\app.py', reloading
+2025-03-12 20:49:57,835 -  * Restarting with stat
